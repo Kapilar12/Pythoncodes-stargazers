@@ -1,5 +1,5 @@
-simple calculator command
-skillrack
+'''simple calculator command'''
+'''skillrack'''
 x=input()
 l=[]
 d=[]
